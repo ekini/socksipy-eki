@@ -38,6 +38,8 @@ for use in PyLoris (http://pyloris.sourceforge.net/)
 Minor modifications made by Mario Vilas (http://breakingcode.wordpress.com/)
 mainly to merge bug fixes found in Sourceforge
 
+Minor modifications made by Eugene Dementiev (http://www.dementiev.eu/)
+
 """
 
 import socket
